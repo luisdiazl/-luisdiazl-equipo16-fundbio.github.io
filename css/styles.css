@@ -7629,7 +7629,7 @@ button.bg-dark:focus {
 }
 
 .mb-5{
-text-align="justify"
+text-align: justify;
 }
 .my-5 {
   margin-bottom: 3rem !important;
